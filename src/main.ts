@@ -13,7 +13,7 @@ async function bootstrap() {
   app.enableCors({
     origin: [
       'http://localhost:3000',
-      'https://english-learning-back-production.up.railway.app',
+      'https://english-learning-back-production-c32d.up.railway.app',
       'https://aprendiendo-con-amor.netlify.app',
     ],
     credentials: true,
